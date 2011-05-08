@@ -19,10 +19,9 @@ left to search for - extgrep
 
 Installation
 ------------
-Checkout extgrep, allow execution and create a symbolic link.
+Checkout extgrep and create a symbolic link.
 
     git clone git://github.com/b-studios/extgrep.git
-    chmod u+x extgrep.rb
     sudo ln -s /YOUR_PATH/extgrep.rb /usr/bin/extgrep
     
 
