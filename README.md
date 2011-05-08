@@ -11,8 +11,8 @@ It helped me to recover 99% of my lost data. It is designed as a **last resort**
 crawling all blocks can take a while (and i now compiled programs would be much faster) you
 may try out the following two programs first:
 
-  - [http://www.xs4all.nl/~carlo17/howto/undelete_ext3.html ext3grep by Carlo Wood]
-  - [http://extundelete.sourceforge.net/ extundelete]
+  - [ext3grep by Carlo Wood](http://www.xs4all.nl/~carlo17/howto/undelete_ext3.html)
+  - [extundelete]http://extundelete.sourceforge.net)
   
 Only if those two programs won't work for you - for example because there are no inodes
 left to search for - extgrep
@@ -50,5 +50,5 @@ If you want to find out all blocks which contain, let's say, "foobar" simply typ
 
 To find out about all of the features just type:
 
-   ~% extgrep help
+    ~% extgrep help
 
