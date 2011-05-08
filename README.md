@@ -12,7 +12,7 @@ crawling all blocks can take a while (and i now compiled programs would be much 
 may try out the following two programs first:
 
   - [ext3grep by Carlo Wood](http://www.xs4all.nl/~carlo17/howto/undelete_ext3.html)
-  - [extundelete]http://extundelete.sourceforge.net)
+  - [extundelete](http://extundelete.sourceforge.net)
   
 Only if those two programs won't work for you - for example because there are no inodes
 left to search for - extgrep
